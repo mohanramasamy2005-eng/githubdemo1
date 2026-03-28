@@ -1,17 +1,33 @@
 # Mohan Ramasamy - Portfolio Website
 
-This is a professional portfolio website built with HTML, CSS, and JavaScript.
+This is a professional portfolio website built with HTML, CSS, and JavaScript. It showcases Mohan Ramasamy's skills, experience, and projects as a web developer.
+
+## Features
+- Responsive design with a clean blue and white theme
+- Smooth scrolling navigation
+- Sections for About, Experience, Skills, Projects, and Contact
+- Interactive elements with JavaScript
 
 ## Files
-- `index.html`: The main HTML structure
-- `styles.css`: The CSS for styling (blue and white theme)
-- `script.js`: The JavaScript for interactivity (smooth scrolling, alerts)
-- `photo.jpg`: Your profile photo (add this file to the folder)
+- `index.html`: The main HTML structure of the portfolio website
+- `styles.css`: CSS styles for layout, colors, and responsiveness (blue and white theme)
+- `script.js`: JavaScript for interactivity, including smooth scrolling and project alerts
+- `indes.java`: A sample Java program demonstrating basic programming concepts (unrelated to the web portfolio)
+- `Mohan linkedin profile.jpeg`: Profile photo (ensure this image file is in the same folder)
 
 ## How to Run
-1. Add your photo as `photo.jpg` in the same folder.
-2. Open `index.html` in a web browser.
+1. Ensure all files are in the same directory.
+2. Add the profile photo as `Mohan linkedin profile.jpeg` in the folder.
+3. Open `index.html` in a web browser to view the portfolio.
 
 ## Customization
-- Replace the content in `index.html` with your actual details.
-- Update `styles.css` for any color or layout changes.
+- Edit `index.html` to update personal information, experience, skills, and projects.
+- Modify `styles.css` to change colors, fonts, or layout.
+- Enhance `script.js` for additional interactivity.
+- The `indes.java` file is a standalone Java program and can be run separately with `java Index` if Java is installed.
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Java (for the sample program)
