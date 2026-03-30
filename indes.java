@@ -12,8 +12,6 @@ public class Index {
         String[] tasks = generateTasks(3);
         System.out.println("Tasks:");
         for (String task : tasks) System.out.println(" - " + task);
-        printSeparator();
-        printGreeting(name);
     }
     private static void printProfile(String name, String role, int years) {
         System.out.println("Profile: " + name);
@@ -34,7 +32,4 @@ public class Index {
         for (int i = 0; i < n; i++) tasks[i] = "Complete module " + (i + 1);
         return tasks;
     }
-    private static void printSeparator() {
-        System.out.println("-----------------------------");
-    }
-    private static void printGreeting(String name) { System.out.println("Keep coding, " + name + "!"); } }   
+}   

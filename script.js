@@ -7,10 +7,3 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         });
     });
 });
-
-// Example: Alert on project click
-document.querySelectorAll('.project').forEach(project => {
-    project.addEventListener('click', () => {
-        alert('Project clicked!');
-    });
-});
