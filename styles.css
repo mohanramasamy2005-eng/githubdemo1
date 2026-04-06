@@ -90,6 +90,15 @@ nav a:hover { background: var(--primary); color: var(--white); }
 
 section { padding: 3rem 2rem; }
 
+#about {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 .project-item, .experience-item, .certificate-item, .project {
   margin: 1rem 0;
   padding: 1.5rem;
